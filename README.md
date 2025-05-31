@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Madraka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Halil Esen 👋
 
-<!---
-Madraka/Madraka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a backend engineer based in Turkey, passionate about building scalable API services, distributed systems and developer tools.
+
+- 🔭 I’m currently building a multi-language news API in Go
+- 🧠 Exploring AI agents, content automation, and DevOps tooling
+- ⚙️ Tech Stack: Go, PostgreSQL, Redis, Docker, GitHub Actions, Cloudflare
+
+---

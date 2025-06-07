@@ -4,6 +4,6 @@ I'm a backend engineer based in Turkey, passionate about building scalable API s
 
 - 🔭 I’m currently building a multi-language news API in Go
 - 🧠 Exploring AI agents, content automation, and DevOps tooling
-- ⚙️ Tech Stack: Go, PostgreSQL, Redis, Docker, GitHub Actions, Cloudflare
+- ⚙️ Tech Stack: Go, PHP, PostgreSQL, Redis, Docker, GitHub Actions, Cloudflare
 
 ---
